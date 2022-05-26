@@ -1,0 +1,28 @@
+Species
+Amount =  15
+
+     Actinokineospora bangkokensis
+     Actinomadura sp. ATCC 39365
+     Bdellovibrionales bacterium
+     Catellatospora sp. NEAU-YM18
+     Microbispora
+     Microbispora sp. H10670
+     Microbispora triticiradicis
+     Nonomuraea
+     Nonomuraea sp. NEAU-L178
+     Stigmatella hybrida
+     Streptomyces rubradiris
+     Streptomyces varsoviensis
+     Streptosporangium becharense
+     Virgisporangium aurantiacum
+     unknown
+
+Protein types
+Amount =  6
+
+     
+     Chain A, nonheme iron and alpha-ketoglutarate dependent halogenase 
+     MULTISPECIES: isopenicillin N synthase family oxygenase 
+     hypothetical protein 
+     hypothetical protein BJP25_23290 
+     isopenicillin N synthase family oxygenase 

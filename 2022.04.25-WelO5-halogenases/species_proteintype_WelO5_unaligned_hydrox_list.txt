@@ -1,0 +1,78 @@
+Species
+Amount =  57
+
+     Acidobacteria bacterium
+     Acidobacteriia bacterium
+     Aestuariicoccus sp. KMU-90
+     Alphaproteobacteria bacterium
+     Anaerolineae bacterium
+     Archangiaceae bacterium
+     Bacteroidia bacterium
+     Burkholderiales bacterium
+     Candidatus Nitrosotenuis aquarius
+     Cellvibrionaceae bacterium
+     Cenarchaeum sp. SB0662_bin_33
+     Cenarchaeum sp. SB0663_bin_5
+     Cenarchaeum sp. SB0675_bin_21
+     Chitinophagales bacterium
+     Chloroflexi bacterium
+     Dehalococcoidia bacterium
+     Deltaproteobacteria bacterium
+     Fischerella sp. PCC 9431
+     Flavobacteriales bacterium
+     Fuerstiella marisgermanici
+     Gammaproteobacteria bacterium RIFCSPLOWO2_02_FULL_61_13
+     Gemmatimonadetes bacterium
+     Hapalosiphon welwitschii UTEX B 1830
+     Mastigocoleus testarum
+     Methanosarcinales archaeon
+     Methylobacterium haplocladii
+     Methylobacterium segetis
+     Methylobacterium sp. DB1607
+     Methylobacterium sp. RAS18
+     Methylorubrum populi
+     Microcystis aeruginosa
+     Microcystis aeruginosa L211-11
+     Microseira wollei
+     Minicystis rosea
+     Moorena sp. SIO4E2
+     Myxococcales bacterium
+     Myxococcus hansupus
+     Neptuniibacter caesariensis
+     Nitrosopumilaceae archaeon
+     Nitrosopumilus sp.
+     Nostoc sp. CHAB 5834
+     Nostoc sp. NIES-4103
+     Oscillatoria salina
+     Planctomycetes bacterium
+     Polyangiaceae bacterium
+     Proteobacteria bacterium
+     Rhodobacteraceae bacterium
+     Rhodobacteraceae bacterium PARR1
+     Rhodobacterales bacterium
+     Rubrivivax sp.
+     SAR202 cluster bacterium
+     Sandaracinaceae bacterium
+     Sandaracinus amylolyticus
+     Stigmatella aurantiaca
+     Stigmatella aurantiaca DW4/3-1
+     aff. Roholtiella sp. LEGE 12411
+     bacterium
+
+Protein types
+Amount =  14
+
+     2OG-Fe(II) oxygenase 
+     2OG-Fe(II) oxygenase, partial 
+     Hypothetical protein A7982_05178 
+     WelO5 G166D variant bound to Fe(II), 2-oxoglutarate, and 12-epifischerindole U 
+     conserved uncharacterized protein 
+     hypothetical protein 
+     hypothetical protein A3H91_09240 
+     hypothetical protein ARNL5_03274 
+     hypothetical protein EA446_01970 
+     hypothetical protein EA446_07615 
+     hypothetical protein Fuma_01243 
+     hypothetical prptein 
+     phytanoyl-CoA dioxygenase family protein 
+     proline hydroxylase 

@@ -1,0 +1,87 @@
+Species
+Amount =  58
+
+     Acidimicrobiales bacterium
+     Acidobacteria bacterium
+     Actinobacteria bacterium IMCC26207
+     Actinomycetia bacterium
+     Alphaproteobacteria bacterium
+     Aquihabitans sp. G128
+     Arenicella sp.
+     Bacteroidetes bacterium
+     Bacteroidia bacterium
+     Calothrix brevissima
+     Candidatus Marinimicrobia bacterium
+     Candidatus Poribacteria bacterium
+     Chitinophagales bacterium
+     Coleofasciculus sp. S288
+     Crocinitomicaceae bacterium
+     Cytophagaceae bacterium
+     Deltaproteobacteria bacterium
+     Desmonostoc muscorum
+     Fischerella ambigua UTEX 1903
+     Fischerella muscicola UTEX 1829
+     Fischerella sp. NIES-4106
+     Fischerella sp. PCC 9339
+     Fischerella sp. PCC 9431
+     Fischerella sp. SAG 46.79
+     Fischerella sp. TAU
+     Flavobacteriales bacterium
+     Fluviicola sp.
+     Haliangium ochraceum
+     Hapalosiphon sp. MRB220
+     Hapalosiphon welwitschii UH IC-52-3
+     Hapalosiphon welwitschii UTEX B 1830
+     Mastigocladus laminosus
+     Mastigocoleus testarum
+     Methanosarcinales archaeon
+     Microcystis aeruginosa
+     Microcystis aeruginosa L211-11
+     Microcystis aeruginosa Ma_QC_B_20070730_S2
+     Microcystis flos-aquae DF17
+     Microcystis sp. Msp_OC_L_20101000_S702
+     Myxococcales bacterium
+     Nostoc
+     Nostoc mirabile
+     Nostoc sp. NZL
+     Nostocales
+     Okeania sp. KiyG1
+     Oscillatoria salina
+     Polyangiaceae bacterium
+     Sandaracinus amylolyticus
+     Scytonema sp. PCC 10023
+     Sphingobacteriaceae bacterium
+     Tolypothrix carrinoi HA7290-LM1
+     Tolypothrix sp. NIES-4075
+     Westiella intricata UH HT-29-1
+     Westiellopsis prolifica
+     Xanthomonadales bacterium
+     aff. Roholtiella sp. LEGE 12411
+     cyanobacterium TDX16
+     unknown
+
+Protein types
+Amount =  22
+
+     2OG-Fe(II) oxygenase 
+     2OG-Fe(II) oxygenase family oxidoreductase 
+     2OG-Fe(II) oxygenase superfamily 
+     AmbO5 
+     FeII-Dependent Halogenase Wi-WelO15 
+     FidO4 
+     FilB1 
+     FisB1 
+     MULTISPECIES: hypothetical protein 
+     MstM 
+     OS=Hapalosiphon welwitschii UTEX B 1830 OX=1433842 PE=1 SV=1
+     WelO5 bound to Fe(II), Cl, and 2-oxoglutarate 
+     Welo5 Small Molecule Halogenase With Ni(ii) And 2-oxoglutarate 
+     fatty acyl-AMP ligase 
+     hypothetical protein 
+     hypothetical protein B7486_64135, partial 
+     hypothetical protein C7N36_07905 
+     hypothetical protein CNR22_04040 
+     hypothetical protein COA38_00110 
+     hypothetical protein COB85_04565 
+     hypothetical protein D6798_18395 
+     oxidoreductase 

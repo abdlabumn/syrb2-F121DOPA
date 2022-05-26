@@ -1,0 +1,71 @@
+Species
+Amount =  56
+
+     Actinobacteria bacterium
+     Aeromonadales bacterium
+     Aliidiomarina iranensis
+     Aliidiomarina minuta
+     Alphaproteobacteria bacterium
+     Arenicella chitinivorans
+     Arenicella xantha
+     Bacteroidetes bacterium
+     Candidatus Marinimicrobia bacterium
+     Chitinophaga agri
+     Chitinophaga agrisoli
+     Chitinophaga eiseniae
+     Chitinophaga filiformis
+     Chitinophaga pinensis
+     Chitinophaga rhizophila
+     Chitinophaga sp. CF418
+     Chitinophaga sp. S165
+     Chitinophaga sp. YR627
+     Chitinophagales bacterium
+     Flammeovirgaceae bacterium TMED32
+     Flavihumibacter sp.
+     Flavihumibacter sp. RY-1
+     Flavipsychrobacter sp.
+     Gammaproteobacteria bacterium
+     Gammaproteobacteria bacterium TMED104
+     Idiomarina
+     Idiomarina abyssalis
+     Idiomarina piscisalsi
+     Idiomarina ramblicola
+     Idiomarina sp.
+     Idiomarina sp. 29L
+     Idiomarina sp. 34-48-12
+     Idiomarina sp. H105
+     Idiomarina zobellii
+     Kineosporia sp. A_224
+     Leptolyngbya sp. FACHB-321
+     Mucilaginibacter gracilis
+     Mucilaginibacter oryzae
+     Mucilaginibacter paludis
+     Mucilaginibacter terrenus
+     Parashewanella hymeniacidonis
+     Proteobacteria bacterium
+     Pseudidiomarina aquimaris
+     Pseudidiomarina homiensis
+     Pseudidiomarina sediminum
+     Rhodanobacteraceae bacterium
+     Rhodobacteraceae bacterium
+     SAR86 cluster bacterium
+     SAR86 cluster bacterium SAR86E
+     Shewanella schlegeliana
+     Shewanella sp. c952
+     Sphingobacteriales bacterium
+     Spirochaeta sp.
+     Stenomitos rutilans HA7619-LM2
+     Thalassotalea euphylliae
+     unclassified Chitinophaga
+
+Protein types
+Amount =  8
+
+     2OG-Fe(II) oxygenase 
+     MULTISPECIES: isopenicillin N synthase family oxygenase 
+     flavonol synthase 
+     flavonol synthase, partial 
+     hypothetical protein 
+     isopenicillin N synthase family oxygenase 
+     oxidoreductase 
+     oxidoreductase, 2OG-Fe(II) oxygenase family protein 
